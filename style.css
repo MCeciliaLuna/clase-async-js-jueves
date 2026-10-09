@@ -1,0 +1,13 @@
+body{
+    background-color: slateblue;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 0.5rem;
+
+}
